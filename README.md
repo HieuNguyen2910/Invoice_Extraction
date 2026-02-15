@@ -45,7 +45,10 @@ Below is an example.
   <img src="result/test1_predict.jpg" width="45%" />
 </p>
 
-![Demo Result](data_test/test1.jpg)
+<p align="center">
+  <img src="assets/output.png" width="70%" />
+</p>
+
 
 
 
