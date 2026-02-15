@@ -40,9 +40,10 @@ python run.py
 
 Below is an example.
 
-![Demo Result](data_test/test1.jpg)
-![Demo Result](result/test1_predict.jpg)
-
+<p align="center">
+  <img src="data_test/test1.jpg" width="45%" />
+  <img src="result/test1_predict.jpg" width="45%" />
+</p>
 
 
 
