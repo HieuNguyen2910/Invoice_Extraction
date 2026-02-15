@@ -11,20 +11,18 @@ Automatically extracts key information such as company name, date, address, and 
 
 ## Installation
 
-Make sure you have **Python 3.8** installed. Then install the required dependencies and start the server using the following commands:
-
 1. Clone the repository
 
 ```bash
-git clone https://github.com/HieuNguyen2910/face_attendance_system
-cd face_attendance_system
+git clone https://github.com/HieuNguyen2910/Invoice_Extraction
+cd Invoice_Extraction
 ```
 
 2. Create and activate Conda environment
 
 ```bash
-conda create -n attendance python=3.9 -y
-conda activate attendance
+conda create -n your_env python=3.8 -y
+conda activate your_env
 ```
 
 3. Install required dependencies
