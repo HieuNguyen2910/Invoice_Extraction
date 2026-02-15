@@ -1,5 +1,5 @@
 # Invoice Extraction System
-Automatically extracts key information such as company name, date, address, and total amount from invoice images using OCR and layout-aware deep learning models.
+Automatically extracts key information such as company name, date, address, and total amount from invoice images using OCR and Graph Neural Networks (GNN).
 
 
 ## Table of Contents
