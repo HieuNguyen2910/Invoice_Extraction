@@ -32,27 +32,17 @@ pip install -r requirements.txt
 
 ## Usage
 
-Download the pretrained model weights.
-
-🔗 **Weights download link:**  
-*(https://drive.google.com/drive/u/8/folders/14UvUr8fxxmkPFlnTlX9RN8RCYsFvM-8y)*
-
-Make sure the file paths in the source code match the downloaded weights.
-
-Run the Django Development Server
 ```bash
-python manage.py runserver
+python run.py
 ```
-
-Access the Web Application: 
-open your browser and go to 
-*(http://127.0.0.1:8000/)*
 
 ## Demo
 
-Below is an example of Face Attendance on a face.
+Below is an example.
 
-![Demo Result](assets/demo.jpg)
+![Demo Result](data_test/test1.jpg)
+![Demo Result](result/test1_predict.jpg)
+
 
 
 
