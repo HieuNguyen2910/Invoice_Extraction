@@ -1,0 +1,23 @@
+﻿xmin,ymin,xmax,ymax,Object,pred_label
+131,488,486,518,NHÀ SÁCH GD-TC CẨM PHẢ,company
+46,526,465,555,ĐC: 212 Đường Trần Phú Chải,address
+48,566,268,596,Nhân viên thu ngân:,other
+46,603,428,632,ĐT 0333863328-Fax 0333863328,other
+46,638,391,667,Thời gian:09:39:25--44/08/2020,date
+42,671,144,705,Tên hàng,other
+256,678,286,699,SL,other
+316,678,356,700,Giá,other
+396,680,566,704,Ck Thành tiền,other
+28,716,165,744,cáo mưa giấy,other
+313,718,389,740,10.000,other
+415,721,430,739,O,other
+471,721,563,744,10.000đ,other
+25,748,151,783,Tổng cộng:,other
+461,755,559,783,10.000đ,other
+25,789,261,817,Chiết khấu bán hàng:,other
+526,798,558,819,0đ,other
+25,829,244,860,Tổng số thanh toán:,other
+460,835,558,859,10.000,total
+96,871,455,904,XIN CẢM ƠN QUÍ KHÁCH,other
+43,1188,303,1209,Samsung Triple Camera,other
+43,1215,243,1235,Chup bang Galaxym21,other
